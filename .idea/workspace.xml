@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d213ceed-7d79-49fa-a7b9-d1fe370e5b7d" name="Changes" comment="For loops">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/KotlinBasics/ForLoops&amp;Ranges.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/KotlinBasics/WhileLoop.kt" afterDir="false" />
+    <list default="true" id="d213ceed-7d79-49fa-a7b9-d1fe370e5b7d" name="Changes" comment="Exps and statemetns">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/IntroToOBjects/Classes.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,16 +40,16 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.InKeywordKt">
-    <configuration name="ForLoops_RangesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KotlinBasics.ForLoops_RangesKt" />
+  <component name="RunManager" selected="Kotlin.ClassesKt">
+    <configuration name="ClassesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IntroToOBjects.ClassesKt" />
       <module name="StevKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KotlinBasics.FunctionsKt" />
+    <configuration name="ForLoops_RangesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KotlinBasics.ForLoops_RangesKt" />
       <module name="StevKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ClassesKt" />
         <item itemvalue="Kotlin.InKeywordKt" />
         <item itemvalue="Kotlin.ForLoops_RangesKt" />
         <item itemvalue="Kotlin.WhileLoopKt" />
         <item itemvalue="Kotlin.StrTemps_TrippleQuittedStrKt" />
-        <item itemvalue="Kotlin.FunctionsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +137,21 @@
       <option name="project" value="LOCAL" />
       <updated>1692609299153</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="in keyword">
+      <created>1692609775820</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1692609775820</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Exps and statemetns">
+      <created>1692610120368</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1692610120368</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -149,7 +162,9 @@
     <MESSAGE value="string template" />
     <MESSAGE value="While loops" />
     <MESSAGE value="For loops" />
-    <option name="LAST_COMMIT_MESSAGE" value="For loops" />
+    <MESSAGE value="in keyword" />
+    <MESSAGE value="Exps and statemetns" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exps and statemetns" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
