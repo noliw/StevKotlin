@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d213ceed-7d79-49fa-a7b9-d1fe370e5b7d" name="Changes" comment="Exps and statemetns">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/IntroToOBjects/Classes.kt" afterDir="false" />
+    <list default="true" id="d213ceed-7d79-49fa-a7b9-d1fe370e5b7d" name="Changes" comment="Classes">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/IntroToOBjects/Properties.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.ClassesKt">
+  <component name="RunManager" selected="Kotlin.PropertiesKt">
     <configuration name="ClassesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="IntroToOBjects.ClassesKt" />
       <module name="StevKotlin" />
@@ -62,8 +62,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StrTemps_TrippleQuittedStrKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KotlinBasics.StrTemps_TrippleQuittedStrKt" />
+    <configuration name="PropertiesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IntroToOBjects.PropertiesKt" />
       <module name="StevKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.PropertiesKt" />
         <item itemvalue="Kotlin.ClassesKt" />
         <item itemvalue="Kotlin.InKeywordKt" />
         <item itemvalue="Kotlin.ForLoops_RangesKt" />
         <item itemvalue="Kotlin.WhileLoopKt" />
-        <item itemvalue="Kotlin.StrTemps_TrippleQuittedStrKt" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692610120368</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Classes">
+      <created>1692778339173</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1692778339173</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -164,7 +171,8 @@
     <MESSAGE value="For loops" />
     <MESSAGE value="in keyword" />
     <MESSAGE value="Exps and statemetns" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exps and statemetns" />
+    <MESSAGE value="Classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Classes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
