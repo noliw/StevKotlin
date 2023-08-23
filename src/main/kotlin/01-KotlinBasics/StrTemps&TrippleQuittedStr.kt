@@ -1,4 +1,4 @@
-package KotlinBasics
+package `01-KotlinBasics`
 
 fun main() {
     // A string template is a programatic way of generating a string

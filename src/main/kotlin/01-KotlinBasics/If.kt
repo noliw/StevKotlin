@@ -1,4 +1,4 @@
-package KotlinBasics
+package `01-KotlinBasics`
 
 fun main() {
     ageRestriction(age = 18)

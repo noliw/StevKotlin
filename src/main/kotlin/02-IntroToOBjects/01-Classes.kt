@@ -1,4 +1,4 @@
-package IntroToOBjects
+package `02-IntroToOBjects`
 
 // objects are used to store data using properties and perform operations with that data using functions
 
