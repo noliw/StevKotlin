@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d213ceed-7d79-49fa-a7b9-d1fe370e5b7d" name="Changes" comment="Visiblity modifiers">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/02-IntroToOBjects/05-Packages&amp;Imports.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/02-IntroToOBjects/06-lists.kt" afterDir="false" />
+    <list default="true" id="d213ceed-7d79-49fa-a7b9-d1fe370e5b7d" name="Changes" comment="lists">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/05-Oop/01-Intercafes.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -186,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692780314310</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="lists">
+      <created>1693379652106</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1693379652106</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -204,7 +210,8 @@
     <MESSAGE value="CHanging file structure" />
     <MESSAGE value="Constructor" />
     <MESSAGE value="Visiblity modifiers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Visiblity modifiers" />
+    <MESSAGE value="lists" />
+    <option name="LAST_COMMIT_MESSAGE" value="lists" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
