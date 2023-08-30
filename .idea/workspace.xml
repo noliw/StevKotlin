@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d213ceed-7d79-49fa-a7b9-d1fe370e5b7d" name="Changes" comment="lists">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/05-Oop/01-Intercafes.kt" afterDir="false" />
+    <list default="true" id="d213ceed-7d79-49fa-a7b9-d1fe370e5b7d" name="Changes" comment="inheritance">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/05-Oop/03-Inheritace.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/05-Oop/03-Inheritace.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,14 +39,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin._06_listsKt">
-    <configuration name="_01_ClassesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="02-IntroToOBjects._01_ClassesKt" />
-      <module name="StevKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin._03_InheritaceKt">
     <configuration name="_02_PropertiesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="02-IntroToOBjects._02_PropertiesKt" />
       <module name="StevKotlin" />
@@ -56,6 +49,13 @@
     </configuration>
     <configuration name="_03_ConstructorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="02-IntroToOBjects._03_ConstructorKt" />
+      <module name="StevKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_03_InheritaceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="05-Oop._03_InheritaceKt" />
       <module name="StevKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._03_InheritaceKt" />
         <item itemvalue="Kotlin._06_listsKt" />
         <item itemvalue="Kotlin._04_VisibilityModifiersKt" />
         <item itemvalue="Kotlin._03_ConstructorKt" />
         <item itemvalue="Kotlin._02_PropertiesKt" />
-        <item itemvalue="Kotlin._01_ClassesKt" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693379652106</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="inheritance">
+      <created>1693385768704</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1693385768704</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -211,7 +218,8 @@
     <MESSAGE value="Constructor" />
     <MESSAGE value="Visiblity modifiers" />
     <MESSAGE value="lists" />
-    <option name="LAST_COMMIT_MESSAGE" value="lists" />
+    <MESSAGE value="inheritance" />
+    <option name="LAST_COMMIT_MESSAGE" value="inheritance" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
