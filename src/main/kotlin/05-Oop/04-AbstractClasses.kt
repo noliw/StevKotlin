@@ -1,7 +1,5 @@
 package `05-Oop`
 
-import com.sun.org.apache.xalan.internal.xsltc.compiler.util.Util.println
-
 /* Think of an abstract class as a cookie cutter for making cookies, but the cookie cutter is missing some parts. 🍪
 
 Imagine you have an abstract cookie cutter that only shapes the edges of the cookie but doesn't put any pattern or
