@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d213ceed-7d79-49fa-a7b9-d1fe370e5b7d" name="Changes" comment="fixing bugs">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/03-Usability/04-Data Classes.kt" afterDir="false" />
+    <list default="true" id="d213ceed-7d79-49fa-a7b9-d1fe370e5b7d" name="Changes" comment="Data classes">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/03-Usability/EnumClasses.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/05-Oop/04-AbstractClasses.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/05-Oop/04-AbstractClasses.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,9 +39,9 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin._04_Data_ClassesKt">
-    <configuration name="_03_ConstructorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="02-IntroToOBjects._03_ConstructorKt" />
+  <component name="RunManager" selected="Kotlin.EnumClassesKt">
+    <configuration name="EnumClassesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="03-Usability.EnumClassesKt" />
       <module name="StevKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.EnumClassesKt" />
         <item itemvalue="Kotlin._04_Data_ClassesKt" />
         <item itemvalue="Kotlin._03_InheritaceKt" />
         <item itemvalue="Kotlin._06_listsKt" />
         <item itemvalue="Kotlin._04_VisibilityModifiersKt" />
-        <item itemvalue="Kotlin._03_ConstructorKt" />
       </list>
     </recent_temporary>
   </component>
@@ -221,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693469804559</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Data classes">
+      <created>1693471900283</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1693471900283</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -243,7 +249,8 @@
     <MESSAGE value="inheritance" />
     <MESSAGE value="abstract classes" />
     <MESSAGE value="fixing bugs" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixing bugs" />
+    <MESSAGE value="Data classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Data classes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
