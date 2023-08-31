@@ -32,7 +32,3 @@ abstract class PersonA(private val name: String) {
     }
 }
 
-interfac
-}
-
-}

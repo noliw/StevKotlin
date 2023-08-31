@@ -19,13 +19,6 @@ fun main() {
     val dog: Ensesa = Wesha(dogName = "Comet")
     val lion = Anbesa(lionName = "Simba")
 
-    dog.
-
-
-    dog.showEnergy()
-    lion.showEnergy()
-
-
 }
 //Every kt class inherits from the ANY super class
 
@@ -36,10 +29,10 @@ fun main() {
 
 open class Ensesa(val name: String) {
     protected var energy = 0
-     fun eat(){
+     open fun eat(){
         energy += 1
     }
-     fun run(){
+     open fun run(){
         energy -= 1
     }
     fun showEnergy () {
@@ -48,13 +41,13 @@ open class Ensesa(val name: String) {
 }
 
 class Wesha(dogName: String): Ensesa(name = dogName) {
-//    override fun eat() {
-//        energy += 5
-//    }
-//
-//    override fun run() {
-//        energy -= 5
-//    }
+    override fun eat() {
+        energy += 5
+    }
+
+    override fun run() {
+        energy -= 5
+    }
 }
 
 class Anbesa (lionName: String): Ensesa(name = lionName) {
