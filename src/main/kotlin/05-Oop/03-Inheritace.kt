@@ -16,12 +16,12 @@ You must know how to "move."
 You must also know how to "dance."
  */
 fun main() {
-    val dog = Wesha(dogName = "Comet")
+    val dog: Ensesa = Wesha(dogName = "Comet")
     val lion = Anbesa(lionName = "Simba")
 
+    dog.
 
 
-    dog.eat()
     dog.showEnergy()
     lion.showEnergy()
 
@@ -36,10 +36,10 @@ fun main() {
 
 open class Ensesa(val name: String) {
     protected var energy = 0
-     open fun eat(){
+     fun eat(){
         energy += 1
     }
-    open fun run(){
+     fun run(){
         energy -= 1
     }
     fun showEnergy () {
@@ -48,13 +48,13 @@ open class Ensesa(val name: String) {
 }
 
 class Wesha(dogName: String): Ensesa(name = dogName) {
-    override fun eat() {
-        energy += 5
-    }
-
-    override fun run() {
-        energy -= 5
-    }
+//    override fun eat() {
+//        energy += 5
+//    }
+//
+//    override fun run() {
+//        energy -= 5
+//    }
 }
 
 class Anbesa (lionName: String): Ensesa(name = lionName) {
