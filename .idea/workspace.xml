@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d213ceed-7d79-49fa-a7b9-d1fe370e5b7d" name="Changes" comment="Data classes">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/03-Usability/EnumClasses.kt" afterDir="false" />
+    <list default="true" id="d213ceed-7d79-49fa-a7b9-d1fe370e5b7d" name="Changes" comment="add everything">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/01-class.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/02-lists&amp;sets.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/03-Usability/07-Nulls.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,13 +37,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "editor.preferences.completion"
   }
-}</component>
-  <component name="RunManager" selected="Kotlin.EnumClassesKt">
+}]]></component>
+  <component name="RunManager" selected="Kotlin._02_lists_setsKt">
     <configuration name="EnumClassesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="03-Usability.EnumClassesKt" />
       <module name="StevKotlin" />
@@ -47,8 +53,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_03_InheritaceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="05-Oop._03_InheritaceKt" />
+    <configuration name="_01_classKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_01_classKt" />
+      <module name="StevKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_02_lists_setsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_02_lists_setsKt" />
       <module name="StevKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -61,15 +74,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_04_VisibilityModifiersKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="02-IntroToOBjects._04_VisibilityModifiersKt" />
-      <module name="StevKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_06_listsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="02-IntroToOBjects._06_listsKt" />
+    <configuration name="_07_NullsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="03-Usability._07_NullsKt" />
       <module name="StevKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +83,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._02_lists_setsKt" />
+        <item itemvalue="Kotlin._01_classKt" />
+        <item itemvalue="Kotlin._07_NullsKt" />
         <item itemvalue="Kotlin.EnumClassesKt" />
         <item itemvalue="Kotlin._04_Data_ClassesKt" />
-        <item itemvalue="Kotlin._03_InheritaceKt" />
-        <item itemvalue="Kotlin._06_listsKt" />
-        <item itemvalue="Kotlin._04_VisibilityModifiersKt" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +233,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693471900283</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Enum classes">
+      <created>1693473557345</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1693473557345</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -250,7 +263,9 @@
     <MESSAGE value="abstract classes" />
     <MESSAGE value="fixing bugs" />
     <MESSAGE value="Data classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Data classes" />
+    <MESSAGE value="Enum classes" />
+    <MESSAGE value="add everything" />
+    <option name="LAST_COMMIT_MESSAGE" value="add everything" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
