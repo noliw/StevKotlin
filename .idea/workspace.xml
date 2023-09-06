@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d213ceed-7d79-49fa-a7b9-d1fe370e5b7d" name="Changes" comment="add everything">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/01-class.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/02-lists&amp;sets.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/03-Usability/07-Nulls.kt" afterDir="false" />
+    <list default="true" id="d213ceed-7d79-49fa-a7b9-d1fe370e5b7d" name="Changes" comment="lists">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/03-Sets.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/04-maps.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/02-lists&amp;sets.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/02-lists&amp;sets.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +43,7 @@
     "settings.editor.selected.configurable": "editor.preferences.completion"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin._02_lists_setsKt">
+  <component name="RunManager" selected="Kotlin._04_mapsKt">
     <configuration name="EnumClassesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="03-Usability.EnumClassesKt" />
       <module name="StevKotlin" />
@@ -67,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_04_Data_ClassesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="03-Usability._04_Data_ClassesKt" />
+    <configuration name="_04_mapsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_04_mapsKt" />
       <module name="StevKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._04_mapsKt" />
         <item itemvalue="Kotlin._02_lists_setsKt" />
         <item itemvalue="Kotlin._01_classKt" />
         <item itemvalue="Kotlin._07_NullsKt" />
         <item itemvalue="Kotlin.EnumClassesKt" />
-        <item itemvalue="Kotlin._04_Data_ClassesKt" />
       </list>
     </recent_temporary>
   </component>
@@ -240,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693473557345</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="lists">
+      <created>1693914661762</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1693914661762</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -258,14 +263,14 @@
     <MESSAGE value="CHanging file structure" />
     <MESSAGE value="Constructor" />
     <MESSAGE value="Visiblity modifiers" />
-    <MESSAGE value="lists" />
     <MESSAGE value="inheritance" />
     <MESSAGE value="abstract classes" />
     <MESSAGE value="fixing bugs" />
     <MESSAGE value="Data classes" />
     <MESSAGE value="Enum classes" />
     <MESSAGE value="add everything" />
-    <option name="LAST_COMMIT_MESSAGE" value="add everything" />
+    <MESSAGE value="lists" />
+    <option name="LAST_COMMIT_MESSAGE" value="lists" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -1,6 +1,7 @@
 // a list is ordered, it goes from first to last
 // items in a list are called elements
 // In kotlin, once a list is created, it can't be changed ==> its called an immutable list
+// they can have duplicates
 
 fun main() {
     var booksToRead = listOf(
